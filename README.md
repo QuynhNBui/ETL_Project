@@ -45,7 +45,7 @@ After reading in our downloaded .csv file as a Pandas dataframe, our first step 
 
 While the argument could be made that presidential election data from at least two election years back should be considered since a potentially sizeable portion of the electric vehicles on the road when this data was collected in 2017 may have been sold during those previous time periods.
 
-(Images/ev_sales.png)
+![Electric Vehicle Sales](Images/ev_sales.png)
 https://afdc.energy.gov/data/10567
 
 We believe that because our data only reports how many electric vehicles were registered in each state in 2017, and not how many electric vehicles were registered in each state around the times of each presidential election, trying to find correlation between our electric vehicle data and multiple years of election data would only create room for more error in any potential findings.
