@@ -1,5 +1,5 @@
 # Batteries Power Politics
-Members: Kylie Tan & Quynh Nhu Bui
+*Members: Kylie Tan & Quynh Nhu Bui*
 
 
 ETL Flow Diagram
