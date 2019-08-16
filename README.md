@@ -3,7 +3,7 @@ Members: Kylie Tan & Quynh Nhu Bui
 
 
 ETL Flow Diagram
-![ETL FLow Diagram]("Images/etl_flow_diagram.png")
+![ETL FLow Diagram](Images/etl_flow_diagram.png)
 
 ## 1)  Project Proposal:
 Our goal for this project is to investigate the correlation between the proportion of each US state’s privately owned electric cars and the proportion of each of those states’ total votes in the  2016 Presidential election received by individual political parties. 
